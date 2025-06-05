@@ -1,0 +1,33 @@
+/*       SELETORES
+css: estilo castata sempre prevalece o ultimo cod.
+seletor: * aplica para todas 
+class: no( html <h1 class="batão">) no (css .botão)
+id: no (html <h1 id=" titulo">) no (css #titulo)
+*/
+h1{
+    color: blue;
+    background: black;
+}
+
+p{
+    color: aqua;
+    font-size: 20px;
+
+}
+
+button{
+    background: green;
+    border-color: black;
+
+}
+
+/*
+                CORES
+
+RGB:
+   RED
+   GREEN
+   BLUE
+
+               HEXADECIMAL
+*/
